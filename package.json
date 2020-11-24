@@ -1,0 +1,27 @@
+{
+  "name": "dnastreaming",
+  "version": "1.0.0",
+  "description": "firstNodeApp",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ADNtheJabber/dnastreaming.git"
+  },
+  "author": "adn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ADNtheJabber/dnastreaming/issues"
+  },
+  "homepage": "https://github.com/ADNtheJabber/dnastreaming#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "nodemon": "^2.0.6"
+  }
+}
